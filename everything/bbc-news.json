@@ -1,8 +1,6 @@
 {
-  "status": "ok",
-  "totalResults": 70,
   "articles": [
-    {
+    
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
@@ -15,7 +13,7 @@
       "publishedAt": "2020-04-21T06:18:01Z",
       "content": "BOLINAS, Calif. (Reuters) - Researchers began testing an entire town in northern California for the novel coronavirus and its antibodies on Monday, one of the first such efforts since the pandemic hit the United States. \r\nBolinas, a wealthy beach town in Mari… [+2727 chars]"
     },
-    {
+    
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
@@ -28,7 +26,7 @@
       "publishedAt": "2020-04-21T06:01:31Z",
       "content": "🔊 Listen to this ArticleWith inflating number of asymptomatic Covid-19 cases responsible for spreading the infection, Indias top medical research body is struggling with the problem caused by the silent spreaders and examining the feasibility of introducing … [+1847 chars]"
     },
-    {
+    
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
@@ -41,7 +39,7 @@
       "publishedAt": "2020-04-21T05:11:31Z",
       "content": "In January, when the coronavirus epicentre Wuhan was yet to be locked down completely, a family was dining at a restaurant in Guangzhou. The family had come from Wuhan and one of them was carrying the virus unknowingly. Days later, nine others who dined at th… [+2075 chars]"
     },
-    {
+    
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
